@@ -78,6 +78,86 @@
     "price":200,
     "category": "food",
     "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":11,
+    "name":"News Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":70,
+    "category": "News",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":12,
+    "name":"Drama Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":500,
+    "category": "Drama",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":13,
+    "name":"Novel Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":600,
+    "category": "Stories",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":14,
+    "name":"Novel Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":550,
+    "category": "Stories",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":15,
+    "name":"Comedy Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":0,
+    "category": "Comedy",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":16,
+    "name":"Comedy Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":0,
+    "category": "Comedy",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":17,
+    "name":"Novel Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":200,
+    "category": "Stories",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":18,
+    "name":"Novel Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":50,
+    "category": "Stories",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":19,
+    "name":"Novel Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":590,
+    "category": "Stories",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
+    },
+       {
+    "id":20,
+    "name":"Novel Book",
+    "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "price":700,
+    "category": "Stories",
+    "image":"https://tse1.mm.bing.net/th?id=OIP.Qmq31o3ZAF-SJH7l8n8_qgHaGz&pid=Api&P=0&h=220"
     }
 
 
